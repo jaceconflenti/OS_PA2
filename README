@@ -1,0 +1,10 @@
+This lab was completed by Steven Conflenti and Cameron Taylor. 
+Our identikeys are stco8901 and cata5492.
+
+syscall.c is the source code for the helloworld test program
+
+syscall2.c is the source code for the simple_add test program
+In the main of this test program you can set n1 and n2 to be different
+numbers that the system call will add together and store via result.
+
+All other files are self explanatory.
